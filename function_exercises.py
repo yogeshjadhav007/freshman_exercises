@@ -31,4 +31,10 @@
 # the main function should catch that exception and handle it by printing the "Error"
 
 
+# import a module called "os" (it is inbuilt python library/package)
+# write a function that will take in a positional argument which is a valid linux path 
+# ex "/home/"
+# list all the directories in that path using os.listdir function
+
+
 

@@ -22,7 +22,8 @@
 
 # define a function called main_function with argument "name" define another function named nested_function within the main_function which takes argument name also
 # nested_function should calculate the len of the name passed to it
-# print the length  of the string returned from the lenght function
+# nested function should return the length
+# print the length  of the string returned from the nested_function in the main_function
 
 # The function defined above should handle exceptions
 # Example: None is passed instead of name in nested function
